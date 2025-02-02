@@ -1,3 +1,4 @@
+![logo](https://github.com/user-attachments/assets/f0591b13-a8be-463b-956d-fdf11139ebd7)
 # About
 Our main goal is to add a NeoForge economy mod that works for both single-player and multi-player which can support other mods and mod pack creators. Using the power of MCreator and the File Manager plugin for MCreator we have created a customizable economy mod experience with both single-player and multiplayer in mind. We hope you enjoy the mod, if you find any problems please let us know on our issue tracker so we can work on a patch for any issues. You may also use the issue tracker to share your feature requests as well.
 # Economy
