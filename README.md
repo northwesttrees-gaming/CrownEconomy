@@ -7,10 +7,14 @@ This mod is driven by customizable JSON files which mod pack creators and other 
 In our mod you can buy land in the form of world chunks, in the case you have anti-griefing enabled players are protected from most common direct griefing, though not fully covered compared to some mods, it does provide a lot of anti-grief mechanics from blocking entity damage and entity griefing, direct block placement or breaking by players, right-click prevention on blocks and entities, and much more. We continue to improve the protection as we discover more ways to prevent damage in patches.
 # Future Plans
 These are not set in stone but are general ideas and things I wish to try.
-- Maket World
+- Market World
 - Dynamic Market Price Support
 - Market NPCs
 - Stock Market
 - Luxuries to spend money on.
 - Patches and Improvements
 - Community Feedback and Requests.
+# Feedback & Suggestions
+Share your feedback and suggestions on the [Discussion page under Ideas!](https://github.com/northwesttrees-gaming/CrownEconomy/discussions/categories/ideas)
+# Bug Reports
+Share your bug/problem not related to a suggestion or feedback on the Issue Page by [creating a new issue!](https://github.com/northwesttrees-gaming/CrownEconomy/issues/new/choose)
